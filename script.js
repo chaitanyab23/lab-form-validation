@@ -8,6 +8,7 @@
 // username should not contain special characters
 // the function should return true if all the conditions above are validated.
 // return false if the validation fails
+ function checkUserName()
 
 // Progression 2 
 // Check mail
